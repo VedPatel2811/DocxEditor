@@ -1,4 +1,4 @@
 /.venv
 /edited_resume.docx
 /resume.docx
-/__pycache__
+**__pycache__
